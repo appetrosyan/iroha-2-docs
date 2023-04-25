@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as o}from"./chunks/framework.c932f925.js";const u=JSON.parse('{"title":"Bash Guide","description":"","frontmatter":{},"headers":[],"relativePath":"guide/bash.md","lastUpdated":1682419675000}'),l={name:"guide/bash.md"},e=o("",102),p=[e];function t(c,r,i,y,A,d){return a(),n("div",null,p)}const C=s(l,[["render",t]]);export{u as __pageData,C as default};
